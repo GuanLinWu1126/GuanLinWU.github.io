@@ -1,3 +1,4 @@
-# GuanLinWU.github.io
-GuanLinWU.github.io/portfolio
-##  NYCU,Department of Applied mathematics
+# GuanLin WU
+## National Yang Ming Chiao Tung University
+## Department of Applied mathematics
+## Changhua County
